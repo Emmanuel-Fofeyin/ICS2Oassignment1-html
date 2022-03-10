@@ -7,3 +7,5 @@
 [![Run on Repl.it](https://repl.it/badge/github/Emmanuel-Fofeyin/ICS2Oassignment1-html)](https://repl.it/github/Emmanuel-Fofeyin/ICS2Oassignment1-html)
 
 This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2Oassignment1-html](https://Emmanuel-Fofeyin.github.io/ICS2Oassignment1-html)
+
+Link to Make code Arcade Bonus: https://arcade.makecode.com/#editor
